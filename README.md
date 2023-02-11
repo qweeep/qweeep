@@ -20,7 +20,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=800&size=23&pause=100&color=7100F7&background=FF424200&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=+Welcome+to+my+GitHub!;+My+name+is+Krasulin+Lev.;I'm+a+student+of+the+Financial+University.;Glad+to+see+you!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=800&size=23&pause=100&color=7100F7&background=FF424200&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=+Welcome+to+my+GitHub!;+My+name+is+Krasulin+Lev.;Glad+to+see+you!" alt="Typing SVG" /></a>
 
 <hr>
 <div align="left">
