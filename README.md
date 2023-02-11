@@ -20,7 +20,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=800&size=23&pause=100&color=7100F7&background=FF424200&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=+Welcome+to+my+GitHub!;+My+name+is+Krasulin+Lev.;Glad+to+see+you!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=500&size=23&pause=100&color=7100F7&background=FF424200&center=true&vCenter=true&multiline=true&repeat=false&width=550&height=150&lines=+Welcome+to+my+GitHub!;+My+name+is+Krasulin+Lev.;Glad+to+see+you!" alt="Typing SVG" /></a>
 
 <hr>
 <div align="left">
@@ -81,7 +81,18 @@
 
 <hr>
 <H4> Pinned </H4>
-  
+<p align="l">
+<a href="https://github.com/qweeep/ScientificCalculator-main">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=ScientificCalculator-main&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<p align="center">
+<a href="https://github.com/qweeep/My_projects">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=My_projects&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>  
+<p align="center">
+<a href="https://github.com/qweeep/Android_React ">
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React &border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>  
 <!--
 **qweeep/qweeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
