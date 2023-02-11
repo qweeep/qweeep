@@ -34,6 +34,7 @@
   - I learning different programming languages, such as:
     ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
     ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=JavaScript)
     ![HTML5](https://img.shields.io/badge/-HTML5-000000?&logo=HTML5&logoColor=white)
     ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoft-sql-server)
@@ -74,6 +75,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelij" alt="intelij" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
   
@@ -83,19 +86,19 @@
 <H4> Pinned </H4>
 <p align="left">
 <a href="https://github.com/qweeep/ScientificCalculator-main">
-<img width='49%' align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=ScientificCalculator-main&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=ScientificCalculator-main&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>
 <p align="left">
 <a href="https://github.com/qweeep/My_projects">
-<img width='49%' align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=My_projects&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="letf" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=My_projects&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
 <p align="right">
 <a href="https://github.com/qweeep/Android_React">
-<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
-<p align="right">
+<p align="center">
 <a href="https://github.com/qweeep/2021_work">
-<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=2021_work&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=2021_work&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
 <!--
 **qweeep/qweeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
