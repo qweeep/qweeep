@@ -25,13 +25,13 @@
 <hr>
 <div align="left">
 <details>
-  <summary> :school: My Education and Skills :weight_lifting_man: </summary>
+  <summary> <H4>  :school: My Education and Skills :weight_lifting_man: </H4>  </summary>
 
   - 3rd year student of [Financial University](http://www.fa.ru/)
   
   - The average score in academic disciplines is 4.2
   
-  - I study different programming languages, such as:
+  - I learning different programming languages, such as:
     ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
     ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
     ![HTML5](https://img.shields.io/badge/-HTML5-000000?&logo=HTML5&logoColor=white)
@@ -43,6 +43,45 @@
   
   
 </details>
+<hr>
+<details>
+   <summary> <H4> 💻 GitHub Profile Stats </H4> </summary>
+   <p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=qweeep&theme=nightowl&hide_border=true" alt="qweeep" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=qweeep&count_private=true&show_icons=true&theme=nightowl&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qweeep&theme=nightowl&langs_count=8&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  </p>
+  
+</details>
+
+<hr>
+<H4>  :hammer_and_wrench: Languages and Tools :</H2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelij" alt="intelij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
+  
+</div>
+
+<hr>
+<H4> Pinned </H4>
+  
 <!--
 **qweeep/qweeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
