@@ -38,6 +38,7 @@
     ![HTML5](https://img.shields.io/badge/-HTML5-000000?&logo=HTML5&logoColor=white)
     ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white)
     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoft-sql-server)
+    ![Cisco](https://img.shields.io/badge/-cisco-000?&logo=cisco)
   
   - Proficient in Linux command line management 
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
@@ -70,6 +71,7 @@
 <hr>
 <H4>  :hammer_and_wrench: Languages and Tools :</H2>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -84,17 +86,17 @@
 
 <hr>
 <H4> Pinned </H4>
-<p align="center">
+<p align="left">
 <a href="https://github.com/qweeep/ScientificCalculator-main">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=ScientificCalculator-main&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
+<img width='49%' align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=ScientificCalculator-main&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>
 <p align="center">
 <a href="https://github.com/qweeep/My_projects">
 <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=My_projects&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
-<p align="center">
+<p align="right">
 <a href="https://github.com/qweeep/Android_React">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
+<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
 <p align="center">
 <a href="https://github.com/qweeep/2021_work">
