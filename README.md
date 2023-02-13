@@ -94,13 +94,13 @@
 <a href="https://github.com/qweeep/My_projects">
 <img width='49%' align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=My_projects&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
-<p align="center">
+<p align="right">
 <a href="https://github.com/qweeep/Android_React">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
+<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=Android_React&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
-<p align="center">
+<p align="right">
 <a href="https://github.com/qweeep/2021_work">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=2021_work&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
+<img width='49%' align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=qweeep&repo=2021_work&border_color=7100F7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7100F7" />
 </a>  
 <!--
 **qweeep/qweeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
